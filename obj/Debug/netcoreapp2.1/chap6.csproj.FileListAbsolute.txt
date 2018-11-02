@@ -1,0 +1,11 @@
+/home/chris/Documents/School related/fall 2018/C#Programming/code/chap6/obj/Debug/netcoreapp2.1/chap6.csprojAssemblyReference.cache
+/home/chris/Documents/School related/fall 2018/C#Programming/code/chap6/obj/Debug/netcoreapp2.1/chap6.csproj.CoreCompileInputs.cache
+/home/chris/Documents/School related/fall 2018/C#Programming/code/chap6/obj/Debug/netcoreapp2.1/chap6.AssemblyInfoInputs.cache
+/home/chris/Documents/School related/fall 2018/C#Programming/code/chap6/obj/Debug/netcoreapp2.1/chap6.AssemblyInfo.cs
+/home/chris/Documents/School related/fall 2018/C#Programming/code/chap6/bin/Debug/netcoreapp2.1/chap6.deps.json
+/home/chris/Documents/School related/fall 2018/C#Programming/code/chap6/bin/Debug/netcoreapp2.1/chap6.runtimeconfig.json
+/home/chris/Documents/School related/fall 2018/C#Programming/code/chap6/bin/Debug/netcoreapp2.1/chap6.runtimeconfig.dev.json
+/home/chris/Documents/School related/fall 2018/C#Programming/code/chap6/bin/Debug/netcoreapp2.1/chap6.dll
+/home/chris/Documents/School related/fall 2018/C#Programming/code/chap6/bin/Debug/netcoreapp2.1/chap6.pdb
+/home/chris/Documents/School related/fall 2018/C#Programming/code/chap6/obj/Debug/netcoreapp2.1/chap6.dll
+/home/chris/Documents/School related/fall 2018/C#Programming/code/chap6/obj/Debug/netcoreapp2.1/chap6.pdb
